@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31224'
     url: http://www.gutenberg.org/2009/agents/31224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25295#Pharaoh-s-BrokerBeing-the-Very-Remarkable-Experiences-in-Another-World-of-Isidor-Werner
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-05-02'
 gutenberg_type: Text
